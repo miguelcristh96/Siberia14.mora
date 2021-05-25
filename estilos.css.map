@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,EAAE;EACpB,KAAK,EAAE,OAAO;CACjB",
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,OAAO;CACjB",
     "sources": [
         "estilos.scss",
         "_body.scss"
