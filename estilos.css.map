@@ -1,9 +1,10 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,EAAE;EACpB,KAAK,EAAE,OAAO;CACjB",
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,IAAI;CAEzB;;ACHD,AAAA,oBAAoB,CAAA;EAChB,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,eAAe;CAW1B;;AAbD,AAGI,oBAHgB,CAGhB,4BAA4B,CAAA;EACxB,KAAK,EAAE,uBAAuB;EAC9B,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;CACrB;;AAPL,AAQI,oBARgB,CAQhB,uBAAuB,CAAA;EACnB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,OAAO;CACvB",
     "sources": [
         "estilos.scss",
-        "_body.scss"
+        "_body.scss",
+        "_section.scss"
     ],
     "names": [],
     "file": "estilos.css"
