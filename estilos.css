@@ -1,5 +1,32 @@
 body {
   background-color: aqua;
-  color: darkred;
+}
+
+.header__contenedor {
+  border: 2px solid gray;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.header__contenedor .header__titulo {
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.header__contenedor .header__titulo--p {
+  color: royalblue;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.header__contenedor .header__titulo--p .header__titulo--span {
+  color: black;
+  font-weight: bolder;
+  text-transform: capitalize;
+  font-size: 25px;
 }
 /*# sourceMappingURL=estilos.css.map */
