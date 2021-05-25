@@ -29,4 +29,10 @@ body {
   text-transform: capitalize;
   font-size: 25px;
 }
+
+.header__contenedor .header__titulo--prev {
+  color: blanchedalmond;
+  text-align: center;
+  font-size: 50px;
+}
 /*# sourceMappingURL=estilos.css.map */
