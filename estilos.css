@@ -18,4 +18,25 @@ body {
   color: blue;
   font-family: cursive;
 }
+
+.header__contenedor {
+  margin: 0;
+  padding: 0;
+}
+
+.header__contenedor .header__titulo {
+  text-align: center;
+  color: red;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.header__contenedor .header__titulo--p {
+  color: blue;
+}
+
+.header__contenedor .header__titulo--p .header__titulo--span {
+  color: black;
+  font-size: 20px;
+}
 /*# sourceMappingURL=estilos.css.map */
